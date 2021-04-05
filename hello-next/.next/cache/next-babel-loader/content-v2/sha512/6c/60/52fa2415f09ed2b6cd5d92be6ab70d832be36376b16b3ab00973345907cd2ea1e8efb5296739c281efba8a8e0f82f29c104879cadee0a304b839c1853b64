@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function (req, res) {}","map":{"version":3,"sources":["/home/rajat/Desktop/learning/hello-next/pages/api/login.tsx"],"names":["req","res"],"mappings":"AAAA,eAAe,UAASA,GAAT,EAAaC,GAAb,EAAiB,CAE/B","sourcesContent":["export default function(req,res){\n    \n}"]},"metadata":{},"sourceType":"module"}
